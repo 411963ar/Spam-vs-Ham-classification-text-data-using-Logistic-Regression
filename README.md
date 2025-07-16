@@ -1,0 +1,2 @@
+# Spam-vs-Ham-classification-text-data-using-Logistic-Regression
+The dataset containing text spam and ham emails with label was downloaded from kaggle,the data set was preprocess., stemming was applied, stop words were removed and vetorized using tfidf to numerical no.Then logistic regression model was trained and evaluated for classification which gives the training accuracy of  98% and test 96%.
